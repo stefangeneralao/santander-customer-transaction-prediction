@@ -12,4 +12,4 @@ For generating a submission, the test dataset is required. Download the test dat
 Unpack the downloaded files. Move `train.csv` and `test.csv` to the root directory.
 
 ## Execution
-Run `python3 main.py` to execute the analysis. At the end of the session the model and its corresponding weights will be saved to the `model`-directory.
+Run `python3 main.py` to execute the analysis. At the end of the session the model and its corresponding weights will be saved to the `model`-directory. The result of the analysis will be saved in the `submissions`-directory.
